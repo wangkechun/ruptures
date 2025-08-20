@@ -6,4 +6,4 @@ from .exceptions import NotEnoughPoints
 from .show import display
 
 # Convenient access to the version number
-from .version import version as __version__
+__version__ = "1.1.9"
